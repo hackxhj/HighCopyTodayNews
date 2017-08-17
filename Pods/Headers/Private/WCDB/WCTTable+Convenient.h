@@ -1,0 +1,1 @@
+../../../WCDB/apple/WCDB/interface/convenient/WCTTable+Convenient.h

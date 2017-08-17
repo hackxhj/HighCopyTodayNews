@@ -1,0 +1,1 @@
+../../../WCDB/apple/WCDB/interface/builtin/WCTMaster+WCTTableCoding.h
