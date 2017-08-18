@@ -2,7 +2,7 @@
 iOS高仿今日头条6.2.6
 
 ###登录的用户是临时游客用户 大家可以任意测试
-###抓取的接口 和实现的 其他的看效果图
+###抓取的接口 和实现的 其他的看效果图  剩下功能和界面 后期有时间慢慢更新上
 ```objc
 extern NSString *const TTCategoryTitlesURL;              // 获取导航分类
 extern NSString *const TTCategoryExtra;                 //获取导航标题 扩展
