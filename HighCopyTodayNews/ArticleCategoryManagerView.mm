@@ -358,9 +358,10 @@ static NSString *const headeridentify=@"headeridentify";
                      [_collectionView beginInteractiveMovementForItemAtIndexPath:selectIndexPath];
                 else{
                      _isEdit=YES;
-                      [self.collectionView reloadData];
                      if(selectIndexPath&&selectIndexPath.section==0)
                         [_collectionView beginInteractiveMovementForItemAtIndexPath:selectIndexPath];
+                    [self.collectionView reloadData];
+
                  }
               }
             break;
