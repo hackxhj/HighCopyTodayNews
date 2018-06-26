@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/chaincall/WCTSelectBase+NoARC.h
+../../../WCDB/objc/WCDB/interface/chaincall/WCTSelectBase+NoARC.h

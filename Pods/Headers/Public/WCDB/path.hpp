@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/util/path.hpp
+../../../WCDB/objc/WCDB/util/path.hpp

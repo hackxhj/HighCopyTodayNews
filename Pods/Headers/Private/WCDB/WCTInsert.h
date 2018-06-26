@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/chaincall/WCTInsert.h
+../../../WCDB/objc/WCDB/interface/chaincall/WCTInsert.h

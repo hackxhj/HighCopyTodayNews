@@ -140,6 +140,7 @@ static NSString *const headeridentify=@"headeridentify";
     self.frame=CGRectMake(0, kScreenHeight, kScreenWidth, kScreenHeight);
     UIColor *color = [UIColor blackColor];
     self.backgroundColor=[color colorWithAlphaComponent:0.5];
+    
     [self addSubview:self.frameView];
     [self.frameView addSubview:self.topView];
     [self.frameView addSubview:self.mianCenterView];

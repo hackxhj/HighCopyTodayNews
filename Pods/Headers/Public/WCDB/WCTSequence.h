@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/builtin/WCTSequence.h
+../../../WCDB/objc/WCDB/interface/builtin/WCTSequence.h

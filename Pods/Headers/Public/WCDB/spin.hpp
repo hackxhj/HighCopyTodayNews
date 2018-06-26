@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/util/spin.hpp
+../../../WCDB/objc/WCDB/util/spin.hpp

@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/statement_drop_table.hpp
+../../../WCDB/objc/WCDB/abstract/statement_drop_table.hpp

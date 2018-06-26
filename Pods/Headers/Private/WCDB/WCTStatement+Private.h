@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/core/WCTStatement+Private.h
+../../../WCDB/objc/WCDB/interface/core/WCTStatement+Private.h

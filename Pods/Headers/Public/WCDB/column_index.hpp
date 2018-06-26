@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/column_index.hpp
+../../../WCDB/objc/WCDB/abstract/column_index.hpp

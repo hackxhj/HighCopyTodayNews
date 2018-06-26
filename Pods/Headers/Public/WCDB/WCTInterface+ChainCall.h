@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/chaincall/WCTInterface+ChainCall.h
+../../../WCDB/objc/WCDB/interface/chaincall/WCTInterface+ChainCall.h

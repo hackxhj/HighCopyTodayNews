@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/conflict.hpp
+../../../WCDB/objc/WCDB/abstract/conflict.hpp

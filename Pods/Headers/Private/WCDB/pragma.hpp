@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/pragma.hpp
+../../../WCDB/objc/WCDB/abstract/pragma.hpp

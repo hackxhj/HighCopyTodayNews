@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/constraint_table.hpp
+../../../WCDB/objc/WCDB/abstract/constraint_table.hpp

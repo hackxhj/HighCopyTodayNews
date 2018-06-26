@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/coding/WCTAnyProperty.h
+../../../WCDB/objc/WCDB/interface/orm/coding/WCTAnyProperty.h

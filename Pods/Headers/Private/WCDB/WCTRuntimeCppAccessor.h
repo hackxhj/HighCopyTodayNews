@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/accessor/WCTRuntimeCppAccessor.h
+../../../WCDB/objc/WCDB/interface/orm/accessor/WCTRuntimeCppAccessor.h

@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/table/WCTTransaction+Table.h
+../../../WCDB/objc/WCDB/interface/table/WCTTransaction+Table.h

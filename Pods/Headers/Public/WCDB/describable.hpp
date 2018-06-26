@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/describable.hpp
+../../../WCDB/objc/WCDB/abstract/describable.hpp

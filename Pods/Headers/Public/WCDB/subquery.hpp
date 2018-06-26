@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/subquery.hpp
+../../../WCDB/objc/WCDB/abstract/subquery.hpp

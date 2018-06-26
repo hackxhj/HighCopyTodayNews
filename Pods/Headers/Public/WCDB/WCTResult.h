@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/coding/WCTResult.h
+../../../WCDB/objc/WCDB/interface/orm/coding/WCTResult.h

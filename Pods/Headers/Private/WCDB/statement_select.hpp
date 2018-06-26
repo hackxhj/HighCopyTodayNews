@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/statement_select.hpp
+../../../WCDB/objc/WCDB/abstract/statement_select.hpp

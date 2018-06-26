@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/macro/WCTPropertyMacro.h
+../../../WCDB/objc/WCDB/interface/orm/macro/WCTPropertyMacro.h

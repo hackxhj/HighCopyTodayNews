@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/util/rwlock.hpp
+../../../WCDB/objc/WCDB/util/rwlock.hpp

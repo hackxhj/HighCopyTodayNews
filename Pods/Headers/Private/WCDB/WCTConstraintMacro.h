@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/macro/WCTConstraintMacro.h
+../../../WCDB/objc/WCDB/interface/orm/macro/WCTConstraintMacro.h

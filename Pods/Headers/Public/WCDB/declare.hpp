@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/declare.hpp
+../../../WCDB/objc/WCDB/abstract/declare.hpp

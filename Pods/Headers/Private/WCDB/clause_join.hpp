@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/clause_join.hpp
+../../../WCDB/objc/WCDB/abstract/clause_join.hpp

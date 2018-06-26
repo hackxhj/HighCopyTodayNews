@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/convenient/WCTTable+Convenient.h
+../../../WCDB/objc/WCDB/interface/convenient/WCTTable+Convenient.h

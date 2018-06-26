@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/statement_vacuum.hpp
+../../../WCDB/objc/WCDB/abstract/statement_vacuum.hpp

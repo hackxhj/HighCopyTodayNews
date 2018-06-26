@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/statictics/WCTStatistics.h
+../../../WCDB/objc/WCDB/interface/statictics/WCTStatistics.h

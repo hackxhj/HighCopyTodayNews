@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/foreign_key.hpp
+../../../WCDB/objc/WCDB/abstract/foreign_key.hpp

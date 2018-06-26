@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/builtin/WCTMaster+WCTTableCoding.h
+../../../WCDB/objc/WCDB/interface/builtin/WCTMaster+WCTTableCoding.h

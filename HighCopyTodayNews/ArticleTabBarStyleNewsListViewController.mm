@@ -39,15 +39,20 @@
     CGFloat contentY = CGRectGetMaxY(self.topBarView.frame);
     self.categoryAdd.frame=CGRectMake(kScreenWidth-40, contentY, 40, 40);
     self.fengLineView.frame=CGRectMake(0, contentY+44, kScreenWidth, 0.5);
-    UIWindow *window=[[UIApplication sharedApplication].windows lastObject];
-    [window addSubview:self.cateGoryManagerView];
+//    UIWindow *window=[[UIApplication sharedApplication].windows lastObject];
+
     
     [self initDB];
     dispatch_async(dispatch_get_global_queue(0, 0), ^{
         [self getCacheData];
     });
   
-    
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.2 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+        UIWindow *window=[[[UIApplication sharedApplication]delegate] window];
+        //    UIWindow *window=[[UIApplication sharedApplication]keyWindow];
+        [window addSubview:self.cateGoryManagerView];
+    });
+ 
 }
 
 

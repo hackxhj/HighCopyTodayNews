@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/util/thread_local.hpp
+../../../WCDB/objc/WCDB/util/thread_local.hpp

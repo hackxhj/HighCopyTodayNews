@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/chaincall/WCTRowSelect.h
+../../../WCDB/objc/WCDB/interface/chaincall/WCTRowSelect.h

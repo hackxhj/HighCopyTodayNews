@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/chaincall/WCTChainCall+Private.h
+../../../WCDB/objc/WCDB/interface/chaincall/WCTChainCall+Private.h

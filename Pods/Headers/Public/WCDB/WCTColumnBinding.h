@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/binding/WCTColumnBinding.h
+../../../WCDB/objc/WCDB/interface/orm/binding/WCTColumnBinding.h

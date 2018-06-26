@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/builtin/WCTMaster.h
+../../../WCDB/objc/WCDB/interface/builtin/WCTMaster.h

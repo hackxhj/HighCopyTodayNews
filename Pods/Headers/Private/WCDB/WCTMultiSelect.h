@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/chaincall/WCTMultiSelect.h
+../../../WCDB/objc/WCDB/interface/chaincall/WCTMultiSelect.h

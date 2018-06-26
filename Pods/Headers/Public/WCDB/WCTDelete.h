@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/chaincall/WCTDelete.h
+../../../WCDB/objc/WCDB/interface/chaincall/WCTDelete.h

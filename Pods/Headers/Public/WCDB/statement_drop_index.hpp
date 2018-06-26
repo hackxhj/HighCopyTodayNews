@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/abstract/statement_drop_index.hpp
+../../../WCDB/objc/WCDB/abstract/statement_drop_index.hpp

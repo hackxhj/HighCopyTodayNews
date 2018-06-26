@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/util/ticker.hpp
+../../../WCDB/objc/WCDB/util/ticker.hpp

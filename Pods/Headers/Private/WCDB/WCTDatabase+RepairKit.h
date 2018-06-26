@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/database/WCTDatabase+RepairKit.h
+../../../WCDB/objc/WCDB/interface/database/WCTDatabase+RepairKit.h

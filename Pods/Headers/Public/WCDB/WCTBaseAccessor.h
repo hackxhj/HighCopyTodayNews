@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/accessor/WCTBaseAccessor.h
+../../../WCDB/objc/WCDB/interface/orm/accessor/WCTBaseAccessor.h

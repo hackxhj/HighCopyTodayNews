@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/WCTORM.h
+../../../WCDB/objc/WCDB/interface/orm/WCTORM.h

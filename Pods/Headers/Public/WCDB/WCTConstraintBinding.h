@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/binding/WCTConstraintBinding.h
+../../../WCDB/objc/WCDB/interface/orm/binding/WCTConstraintBinding.h

@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/util/concurrent_list.hpp
+../../../WCDB/objc/WCDB/util/concurrent_list.hpp

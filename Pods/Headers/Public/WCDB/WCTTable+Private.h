@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/table/WCTTable+Private.h
+../../../WCDB/objc/WCDB/interface/table/WCTTable+Private.h

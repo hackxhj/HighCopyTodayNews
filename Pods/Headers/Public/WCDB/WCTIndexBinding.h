@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/interface/orm/binding/WCTIndexBinding.h
+../../../WCDB/objc/WCDB/interface/orm/binding/WCTIndexBinding.h

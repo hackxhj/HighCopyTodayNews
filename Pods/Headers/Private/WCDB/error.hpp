@@ -1,1 +1,1 @@
-../../../WCDB/apple/WCDB/util/error.hpp
+../../../WCDB/objc/WCDB/util/error.hpp
